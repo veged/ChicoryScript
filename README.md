@@ -9,33 +9,19 @@ Something less radical with respect to JavaScript than CoffeeScript.
 * No lexical scoping -- use explicit `var`.
 
 ## Features from CoffeeScript
-
-### Functions and Fat Functions
-
-### Return
-
-### Conditional Assignment
-
-### For Loops
-
-### Operators and Aliases
-
-### The Existential Operator
-
-### Classes, Inheritance, and Super
-
-### Switch/When/Else
-
-### Heredocs, Herecomments, Heregexes
-
-### Splats...
-
-### Array Slicing and Splicing with Ranges
+* Functions and Fat Functions
+* Return
+* Conditional Assignment
+* For Loops
+* Operators and Aliases
+* The Existential Operator
+* Classes, Inheritance, and Super
+* Switch/When/Else
+* Heredocs, Herecomments, Heregexes
+* Splats...
+* Array Slicing and Splicing with Ranges
 
 ## Something new
-
-### Statement expression
-
-### Objects
-
-### With
+* Statement expression
+* Objects
+* With
